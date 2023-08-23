@@ -1,5 +1,6 @@
 # PythonPortfolio
-Hello Everyione.
+
+Hello Everyone.
 
 This is my Python Portfolio that I managed to complete while taking Codecademy professional certification as a Business Intelligence Data Analyst.
 
@@ -12,6 +13,8 @@ This Portfolio contains the following:
 🔎Exploratory Data Analysis
 
 📊Data Visualization Fundamentals with Python
+Resources: Matplotlib Pyplot (plt) , Seaborn (sns) & Pandas (pd)
+Projects: Exploring Mushrooms
 
 The data has been provided by Codecademy.
 
