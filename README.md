@@ -14,7 +14,9 @@ This Portfolio contains the following:
 
 📊Data Visualization Fundamentals with Python
 Resources: Matplotlib Pyplot (plt) , Seaborn (sns) & Pandas (pd)
-Projects: Exploring Mushrooms
+Projects: 
+◾ Exploring Mushrooms
+◾ Airline Analysis
 
 The data has been provided by Codecademy.
 
