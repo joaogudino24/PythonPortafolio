@@ -18,6 +18,12 @@ Projects:
 ◾ Exploring Mushrooms
 ◾ Airline Analysis
 
+🧹Data Wrangling, Cleaning, and Tidying
+
+Resources: Matplotlib Pyplot (plt) , Numpy (np) & Pandas (pd)
+Projects: 
+◾ Cleaning US Census Data
+
 The data has been provided by Codecademy.
 
 
