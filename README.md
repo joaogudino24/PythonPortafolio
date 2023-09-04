@@ -15,6 +15,7 @@ This Portfolio contains the following:
 📊Data Visualization Fundamentals with Python
 
 Resources: Matplotlib Pyplot (plt) , Seaborn (sns) & Pandas (pd)
+
 Projects: 
 ◾ Exploring Mushrooms
 ◾ Airline Analysis
@@ -22,6 +23,7 @@ Projects:
 🧹Data Wrangling, Cleaning, and Tidying
 
 Resources: Matplotlib Pyplot (plt) , Numpy (np) & Pandas (pd)
+
 Projects: 
 ◾ Cleaning US Census Data
 
