@@ -13,6 +13,7 @@ This Portfolio contains the following:
 🔎Exploratory Data Analysis
 
 📊Data Visualization Fundamentals with Python
+
 Resources: Matplotlib Pyplot (plt) , Seaborn (sns) & Pandas (pd)
 Projects: 
 ◾ Exploring Mushrooms
