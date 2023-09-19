@@ -27,6 +27,10 @@ Resources: Matplotlib Pyplot (plt) , Numpy (np) & Pandas (pd)
 Projects: 
 ◾ Cleaning US Census Data
 
+📂Portfolio Projects
+
+◾ biodiversity
+
 The data has been provided by Codecademy.
 
 
